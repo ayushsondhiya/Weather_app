@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.pinimg.com/564x/dc/6c/f5/dc6cf5a6e69c4f3b3c58585956e0abfb.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: #333;
+}
+
+h2 {
+    margin: 12px 0;
+    text-align: center;
+}
+
+/* Search bar styles */
+#city {
+    padding: 12px;
+    border: 1px solid #ccc;
+    background-color: #fae6e0;
+    border-radius: 5px;
+    width: 240px;
+}
+
+#button {
+    padding: 12px 24px;
+    background-color: #4c99af;
+    color: rgb(247, 245, 244);
+    border:1px;
+    border-color:  #4c60af;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Display area styles */
+#div2 {
+    margin: 0;
+    padding: 0;
+    
+    border-radius: 5px;
+    position: relative;
+    /* Allow layering for content on top of the image */
+    background-color: rgba(255, 255, 255, 0);
+    /* Semi-transparent white background */
+}
+
+#div2 h2 {
+    color: #333;
+    /* Darker text color for better visibility */
+    padding: 15px;
+    /* Add padding for content within the box */
+}
