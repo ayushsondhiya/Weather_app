@@ -37,6 +37,10 @@ We welcome contributions to this project! Please see the `CONTRIBUTING.md` file 
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+https://github.com/ayushsondhiya/Weather_app/assets/78423649/21611805-eafc-4a99-b73f-d9ae9ec36c63
+
+
+
 ### Additional Notes
 
 * This code uses a placeholder image for the background. You can replace it with your own image.
