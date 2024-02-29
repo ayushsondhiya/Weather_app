@@ -15,8 +15,7 @@ const cityHumid = document.getElementById("city-humid");
 async function getData(cityName) {
     // Fetch data from the weather API using the provided city name
     const promise = await fetch(
-        `https://api.weatherapi.com/v1/current.json?key=67e159c7929d4b608bb190803242902&q=${cityName}&aqi=yes
-`
+        `https://api.weatherapi.com/v1/current.json?key=67e159c7929d4b608bb190803242902&q=${cityName}&aqi=yes`
     );
 
     // Return the JSON data from the response
